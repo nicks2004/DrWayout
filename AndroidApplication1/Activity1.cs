@@ -12,7 +12,7 @@ namespace AndroidApplication1
     [Activity(Label = "AndroidApplication1", MainLauncher = true, Icon = "@drawable/icon")]
     public class Activity1 : Activity
     {
-        int count = 1000;
+        int count = 1;
 
         protected override void OnCreate(Bundle bundle)
         {
